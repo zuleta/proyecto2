@@ -1,1 +1,134 @@
+body{
+	
+}
+#general{
+	width:90%;
+	margin:auto;
+	height: 900px;
+}
+#cabeza{
 
+	border-radius: 15px 15px 15px 15px;
+	border-style: solid;
+	width: 96%;
+	height: 280px;
+	margin:auto;
+	margin-bottom: 1%;
+	-moz-box-shadow: rgb(150,150,150) 5px 5px;
+	-webkit-box-shadow: rgb(150,150,150) 5px 5px;
+	box-shadow: rgb(150,150,150) 5px 5px;
+}
+#logo{
+	margin: auto;
+	width: 35%;
+	height: 90%;
+}
+#imagen{
+	max-width: 100%;
+	max-height:100%;
+}
+nav{
+	margin-top: 1%;
+	margin-bottom: 1%;
+	border-style: solid;
+	background-color: silver;
+	width: 96%;
+	margin:auto;
+	height: 80px;
+	border-radius: 15px 15px 15px 15px;
+	-moz-box-shadow: rgb(150,150,150) 5px 5px;
+	-webkit-box-shadow: rgb(150,150,150) 5px 5px;
+	box-shadow: rgb(150,150,150) 5px 5px;
+}
+#menu{
+	font-size: 1.5em;
+	margin-left: 10%;
+	
+	width: 80%;
+	
+}
+#menu li{
+	display: inline-block;
+	margin-left: 8%; 
+
+}
+
+ul {
+
+	display: block;
+ 	list-style: none;
+ }
+
+li a{
+	text-decoration: none;
+	margin-right: 2%;
+}
+section{
+	
+	padding: 1%;
+	float: left;
+	width: 60%;
+	height: 380px;
+	
+}
+#section1{
+	margin: auto;
+	border-style: solid;
+	width: 90%;
+	height: 48%;
+	margin-bottom: 10px;
+	background: silver;
+	border-radius: 15px 15px 15px 15px;
+	-moz-box-shadow: rgb(150,150,150) 5px 5px;
+	-webkit-box-shadow: rgb(150,150,150) 5px 5px;
+	box-shadow: rgb(150,150,150) 5px 5px;
+	box-sizing: border-box;
+	padding:10px;
+
+}
+#imgart{
+	margin-top: 40px;
+	border-style: solid;
+	width: 20%;
+	height: 100px;
+	margin-bottom: 1%;
+}
+aside{
+	background: silver;
+	border-radius: 15px 15px 15px 15px;
+	float: right;
+	margin-right: 4%;
+	border-style: #999 solid ;
+	width: 33%;
+	height: 280px;
+	padding: 1%;
+	margin-top: 1%;
+	margin-bottom:1%; 
+	-moz-box-shadow: rgb(150,150,150) 5px 5px;
+	-webkit-box-shadow: rgb(150,150,150) 5px 5px;
+	box-shadow: rgb(150,150,150) 5px 5px;
+	box-sizing: border-box;
+}
+table{
+	margin: auto;
+	text-shadow: #000 2px 2px 2px;
+	font-family: verdana, sans-serif;
+	font-size: 15px;
+}
+h4{
+	text-shadow: #000 2px 2px 2px;
+	font-family: verdana, sans-serif;
+	margin-left: 20%;
+	font-size:0.8em;
+}
+
+footer{
+	border-top: silver solid 2px;
+	margin-top: 1%;
+	margin-left: 2.5%;
+	
+	text-align: center;
+	display: inline-block;
+	width: 95%;
+	height: 100px;
+}
